@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CustomView</string>
+    <string name="viewslide">控件滑动</string>
+    <string name="layout">layout()方法</string>
+    <string name="offset">offsetLeftAndRight()和offsetTopAndBottom</string>
+    <string name="layoutparams">LayoutParams</string>
+    <string name="scroll">ScrollTo 和 scrollBy </string>
+    <string name="scroller">Scroller</string>
+</resources>
